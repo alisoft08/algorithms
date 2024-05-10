@@ -1,0 +1,12 @@
+﻿  ConsoleApplication14.cpp
+C:\Users\HP SUPPORT\Downloads\EP_u202312031_Arrieta Quispe_Alison Jimena\EP_u202312031_Arrieta Quispe_Alison Jimena\Pregunta2\ConsoleApplication14\Cerdo.h(49,14): warning C4244: 'return': conversión de 'double' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "ConsoleApplication14.cpp")
+  
+C:\Users\HP SUPPORT\Downloads\EP_u202312031_Arrieta Quispe_Alison Jimena\EP_u202312031_Arrieta Quispe_Alison Jimena\Pregunta2\ConsoleApplication14\ConsoleApplication14.cpp(91,34): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\HP SUPPORT\Downloads\EP_u202312031_Arrieta Quispe_Alison Jimena\EP_u202312031_Arrieta Quispe_Alison Jimena\Pregunta2\ConsoleApplication14\ConsoleApplication14.cpp(94,32): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\HP SUPPORT\Downloads\EP_u202312031_Arrieta Quispe_Alison Jimena\EP_u202312031_Arrieta Quispe_Alison Jimena\Pregunta2\ConsoleApplication14\ConsoleApplication14.cpp(97,38): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\HP SUPPORT\Downloads\EP_u202312031_Arrieta Quispe_Alison Jimena\EP_u202312031_Arrieta Quispe_Alison Jimena\Pregunta2\ConsoleApplication14\ConsoleApplication14.cpp(168,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\HP SUPPORT\Downloads\EP_u202312031_Arrieta Quispe_Alison Jimena\EP_u202312031_Arrieta Quispe_Alison Jimena\Pregunta2\ConsoleApplication14\ConsoleApplication14.cpp(239,54): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\HP SUPPORT\Downloads\EP_u202312031_Arrieta Quispe_Alison Jimena\EP_u202312031_Arrieta Quispe_Alison Jimena\Pregunta2\ConsoleApplication14\ConsoleApplication14.cpp(252,54): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\HP SUPPORT\Downloads\EP_u202312031_Arrieta Quispe_Alison Jimena\EP_u202312031_Arrieta Quispe_Alison Jimena\Pregunta2\ConsoleApplication14\ConsoleApplication14.cpp(265,58): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+  ConsoleApplication14.vcxproj -> C:\Users\HP SUPPORT\Downloads\EP_u202312031_Arrieta Quispe_Alison Jimena\EP_u202312031_Arrieta Quispe_Alison Jimena\Pregunta2\ConsoleApplication14\Debug\ConsoleApplication14.exe

@@ -1,0 +1,9 @@
+﻿  ConsoleApplication14.cpp
+C:\Users\Alumnos\source\repos\ConsoleApplication14\ConsoleApplication14.cpp(101,29): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Alumnos\source\repos\ConsoleApplication14\ConsoleApplication14.cpp(103,29): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Alumnos\source\repos\ConsoleApplication14\ConsoleApplication14.cpp(104,34): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Alumnos\source\repos\ConsoleApplication14\ConsoleApplication14.cpp(172,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Alumnos\source\repos\ConsoleApplication14\ConsoleApplication14.cpp(219,53): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+C:\Users\Alumnos\source\repos\ConsoleApplication14\ConsoleApplication14.cpp(226,53): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+C:\Users\Alumnos\source\repos\ConsoleApplication14\ConsoleApplication14.cpp(233,57): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+  ConsoleApplication14.vcxproj -> C:\Users\Alumnos\source\repos\ConsoleApplication14\Debug\ConsoleApplication14.exe
