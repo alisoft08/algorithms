@@ -1,0 +1,20 @@
+﻿  TrabajoParcial.cpp
+C:\Users\User\Downloads\Trabajo Parcial G2\TrabajoParcial\TrabajoParcial.cpp(23,9): warning C4101: 'option': variable local sin referencia
+C:\Users\User\Downloads\Trabajo Parcial G2\TrabajoParcial\TrabajoParcial.cpp(214,31): warning C4244: '+=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\User\Downloads\Trabajo Parcial G2\TrabajoParcial\TrabajoParcial.cpp(169,9): warning C4101: 'idIngresado': variable local sin referencia
+C:\Users\User\Downloads\Trabajo Parcial G2\TrabajoParcial\Lista.h(95,27): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\User\Downloads\Trabajo Parcial G2\TrabajoParcial\Lista.h(88,44): message : al compilar la función del miembro clase plantilla "void Lista<User *>::agregaPos(T,uint)"
+          with
+          [
+              T=User *
+          ]
+C:\Users\User\Downloads\Trabajo Parcial G2\TrabajoParcial\TrabajoParcial.cpp(69,25): message : vea la primera referencia a “Lista<User *>::agregaPos” en “registerUser”
+C:\Users\User\Downloads\Trabajo Parcial G2\TrabajoParcial\TrabajoParcial.cpp(69,9): message : Vea la referencia a la creación de una instancia de clase plantilla "Lista<User *>" que se está compilando
+C:\Users\User\Downloads\Trabajo Parcial G2\TrabajoParcial\Lista.h(161,27): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\User\Downloads\Trabajo Parcial G2\TrabajoParcial\Lista.h(158,34): message : al compilar la función del miembro clase plantilla "T Lista<T>::obtenerPos(uint)"
+          with
+          [
+              T=User *
+          ]
+C:\Users\User\Downloads\Trabajo Parcial G2\TrabajoParcial\TrabajoParcial.cpp(114,20): message : vea la primera referencia a “Lista<User *>::obtenerPos” en “showUsers”
+  TrabajoParcial.vcxproj -> C:\Users\User\Downloads\Trabajo Parcial G2\TrabajoParcial\x64\Debug\TrabajoParcial.exe

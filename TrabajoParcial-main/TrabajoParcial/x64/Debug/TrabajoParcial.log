@@ -1,0 +1,33 @@
+﻿  TrabajoParcial.cpp
+C:\Users\HP SUPPORT\Downloads\TrabajoParcial-main (1)\TrabajoParcial-main\TrabajoParcial.cpp(34,9): warning C4101: 'option': variable local sin referencia
+C:\Users\HP SUPPORT\Downloads\TrabajoParcial-main (1)\TrabajoParcial-main\TrabajoParcial.cpp(225,31): warning C4244: '+=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\HP SUPPORT\Downloads\TrabajoParcial-main (1)\TrabajoParcial-main\TrabajoParcial.cpp(180,9): warning C4101: 'idIngresado': variable local sin referencia
+C:\Users\HP SUPPORT\Downloads\TrabajoParcial-main (1)\TrabajoParcial-main\Lista.h(95,27): warning C4018: '<': no coinciden signed/unsigned
+  (compilando archivo de origen "TrabajoParcial.cpp")
+  C:\Users\HP SUPPORT\Downloads\TrabajoParcial-main (1)\TrabajoParcial-main\Lista.h(95,27):
+  el contexto de creación de instancias de la plantilla (el más antiguo primero) es
+  	C:\Users\HP SUPPORT\Downloads\TrabajoParcial-main (1)\TrabajoParcial-main\TrabajoParcial.cpp(80,9):
+  	Vea la referencia a la creación de una instancia de clase plantilla "Lista<User *>" que se está compilando
+  	C:\Users\HP SUPPORT\Downloads\TrabajoParcial-main (1)\TrabajoParcial-main\Lista.h(88,44):
+  	al compilar la función del miembro clase plantilla "void Lista<User *>::agregaPos(T,uint)"
+          with
+          [
+              T=User *
+          ]
+  		C:\Users\HP SUPPORT\Downloads\TrabajoParcial-main (1)\TrabajoParcial-main\TrabajoParcial.cpp(80,25):
+  		vea la primera referencia a “Lista<User *>::agregaPos” en “registerUser”
+  
+C:\Users\HP SUPPORT\Downloads\TrabajoParcial-main (1)\TrabajoParcial-main\Lista.h(161,27): warning C4018: '<': no coinciden signed/unsigned
+  (compilando archivo de origen "TrabajoParcial.cpp")
+  C:\Users\HP SUPPORT\Downloads\TrabajoParcial-main (1)\TrabajoParcial-main\Lista.h(161,27):
+  el contexto de creación de instancias de la plantilla (el más antiguo primero) es
+  	C:\Users\HP SUPPORT\Downloads\TrabajoParcial-main (1)\TrabajoParcial-main\Lista.h(158,34):
+  	al compilar la función del miembro clase plantilla "T Lista<T>::obtenerPos(uint)"
+          with
+          [
+              T=User *
+          ]
+  		C:\Users\HP SUPPORT\Downloads\TrabajoParcial-main (1)\TrabajoParcial-main\TrabajoParcial.cpp(125,20):
+  		vea la primera referencia a “Lista<User *>::obtenerPos” en “showUsers”
+  
+  TrabajoParcial.vcxproj -> C:\Users\HP SUPPORT\Downloads\TrabajoParcial-main (1)\TrabajoParcial-main\x64\Debug\TrabajoParcial.exe
